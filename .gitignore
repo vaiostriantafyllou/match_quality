@@ -1,0 +1,10 @@
+.env
+.myenv
+*.xls
+*.xlsx
+*.csv
+*.dta
+*.log
+*.tex
+*.hgt
+*.pdf
